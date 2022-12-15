@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kevinanielsen
 - 👀 I’m interested in learning full-stack development
-- 🌱 I’m currently learning front-end development and git/github
+- 🌱 I’m currently learning react.js and git/github
 - 📫 Reach me on my email "keveran@gmail.com"
 
 <!---
