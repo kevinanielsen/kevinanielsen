@@ -1,25 +1,23 @@
-## Kevin Nielsen - Front-end developer
+## Kevin Nielsen - Frontend developer
 
 - 👋 Hi, I’m @kevinanielsen
-- 👀 I’m interested in learning full-stack development
-- 🌱 I’m currently learning Node and Express
-- 📫 Reach me on my email "keveran@gmail.com"
 
-## My stack
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
-![image](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![image](https://img.shields.io/badge/PocketBase-B8DBE4?style=for-the-badge&logo=PocketBase&logoColor=white)
-![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+I am a web developer who primarily works with frontend using React and Next.js. </br>
+### Tech Stack
+My tech stack varies, but these are the technologies I work with the most! </br></br>
+<img src="https://img.shields.io/badge/typescript-%23007acc.svg?logo=typescript&logoColor=white&style=flat" alt="TypeScript" />
+<img src="https://img.shields.io/badge/express.js-%23000000.svg?logo=express&logoColor=white&style=flat" alt="Express.js" />
+<img src="https://img.shields.io/badge/next.js-%23000000.svg?logo=next.js&logoColor=white&style=flat" alt="Next.js" />
+<img src="https://img.shields.io/badge/node.js-%2343853d.svg?logo=node.js&logoColor=white&style=flat" alt="Node.js" />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361dafb&style=flat" alt="React" />
+<img src="https://img.shields.io/badge/tailwindcss-%2338b2ac.svg?logo=tailwind-css&logoColor=white&style=flat" alt="TailwindCSS" />
+<img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?logo=mongodb&logoColor=white&style=flat" alt="MongoDB" />
 
-![Kevinanielsen's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevinanielsen)
-![Kevinanielsen's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinanielsen)
+### Work
+I am currently looking for work, so if I seem like a good fit for your team, or you would like to discuss a project, please contact me at "kevinanielsen@outlook.com"
+
+### Stats
+[![kevinanielsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinanielsen)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 kevinanielsen/kevinanielsen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
