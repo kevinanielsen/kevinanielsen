@@ -1,6 +1,8 @@
 ## Kevin Nielsen - Frontend developer
 
 - 👋 Hi, I’m @kevinanielsen
+- 🏢 Working as a Software Developer @ Fysiofresh, Copenhagen
+- 🏫 Studying Software Engineering @ Aalborg Universitet, Copenhagen
 
 ### Tech Stack
 My tech stack varies, but these are the technologies I work with the most! </br></br>
