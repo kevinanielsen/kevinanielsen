@@ -1,4 +1,4 @@
-## Kevin Nielsen - Frontend developer
+## Kevin Alex Nielsen - Software Developer
 
 - 👋 Hi, I’m @kevinanielsen
 - 🏢 Working as a Software Developer @ Fysiofresh, Copenhagen
